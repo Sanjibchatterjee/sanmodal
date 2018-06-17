@@ -1,6 +1,6 @@
 # sanmodal
 Free Responsive Modal
-For using in your html, PHP, .Net, Java, Python, NodeJs project.
+For using in your HTML, PHP, .Net, Java, Python, NodeJs, Ruby, Angular, React projects.
 
 Free for use for the purpose of personal and commercial till you keep the copyright information in header as it is.
 ### Example: [San Modal](http://sanjibchatterjee.com/sanmodal/sanmodal.html).
