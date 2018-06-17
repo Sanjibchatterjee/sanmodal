@@ -1,0 +1,4 @@
+/* ----opyright @Sanjib Chatterjee----
+You are hereby authorized to use this modal till you keep this header and copyright information and till then it is:
+Free for Personal & Commercial Projects */
+var modal=document.getElementById("sanmodal"),btn=document.getElementById("openBtn"),close=document.getElementById("close");btn.onclick=function(){modal.style.display="block"},close.onclick=function(){modal.style.display="none"};var modalbot=document.getElementById("sanmodalbot"),btnbot=document.getElementById("openBtnbot"),closebot=document.getElementById("closebot");btnbot.onclick=function(){modalbot.style.display="block"},closebot.onclick=function(){modalbot.style.display="none"},window.onclick=function(o){o.target!=modal&&o.target!=modalbot||(modal.style.display="none",modalbot.style.display="none")};
