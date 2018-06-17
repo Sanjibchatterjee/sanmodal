@@ -7,7 +7,6 @@ Free for use for the purpose of personal and commercial till you keep the copyri
 
 ## How to use?
 * Link the CSS file sanmodal.css with the html
-* Link the Javascript file sanmodal.js in the html after the related html code, ie at bottom part inside the body.
 * Add the following html-
 ```
 <div id="sanmodal" class="sanmodal">
@@ -26,3 +25,12 @@ Free for use for the purpose of personal and commercial till you keep the copyri
 	</div>
 </div>
 ```
+* Add the following javascript in the html after the related html code, ie at bottom part inside the body
+```
+<script>
+var modal = document.getElementById('sanmodal');
+var btn = document.getElementById('openBtn');
+var close = document.getElementById('close');
+</script>
+```
+* Link the Javascript file sanmodal.js under the above script. and Bingo!
